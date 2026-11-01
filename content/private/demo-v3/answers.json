@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "demo-v3",
+  "puzzles": [
+    {
+      "puzzleId": "meta-north",
+      "normalization": {
+        "trim": true,
+        "caseFold": "upper",
+        "removeInternalWhitespace": false
+      },
+      "answerVariants": [
+        {
+          "id": "solution-1",
+          "acceptedAnswers": [
+            "NORTH"
+          ]
+        }
+      ]
+    },
+    {
+      "puzzleId": "meta-east",
+      "normalization": {
+        "trim": true,
+        "caseFold": "upper",
+        "removeInternalWhitespace": false
+      },
+      "answerVariants": [
+        {
+          "id": "solution-1",
+          "acceptedAnswers": [
+            "EAST"
+          ]
+        }
+      ]
+    },
+    {
+      "puzzleId": "meta-south",
+      "normalization": {
+        "trim": true,
+        "caseFold": "upper",
+        "removeInternalWhitespace": false
+      },
+      "answerVariants": [
+        {
+          "id": "solution-1",
+          "acceptedAnswers": [
+            "SOUTH"
+          ]
+        }
+      ]
+    },
+    {
+      "puzzleId": "north-a",
+      "normalization": {
+        "trim": true,
+        "caseFold": "upper",
+        "removeInternalWhitespace": false
+      },
+      "answerVariants": [
+        {
+          "id": "solution-1",
+          "acceptedAnswers": [
+            "LEAF"
+          ]
+        }
+      ]
+    },
+    {
+      "puzzleId": "north-b",
+      "normalization": {
+        "trim": true,
+        "caseFold": "upper",
+        "removeInternalWhitespace": false
+      },
+      "answerVariants": [
+        {
+          "id": "solution-1",
+          "acceptedAnswers": [
+            "STONE"
+          ]
+        }
+      ]
+    },
+    {
+      "puzzleId": "east-a",
+      "normalization": {
+        "trim": true,
+        "caseFold": "upper",
+        "removeInternalWhitespace": false
+      },
+      "answerVariants": [
+        {
+          "id": "solution-1",
+          "acceptedAnswers": [
+            "LEFT"
+          ]
+        }
+      ]
+    },
+    {
+      "puzzleId": "east-b",
+      "normalization": {
+        "trim": true,
+        "caseFold": "upper",
+        "removeInternalWhitespace": false
+      },
+      "answerVariants": [
+        {
+          "id": "solution-1",
+          "acceptedAnswers": [
+            "RIGHT"
+          ]
+        }
+      ]
+    },
+    {
+      "puzzleId": "south-a",
+      "normalization": {
+        "trim": true,
+        "caseFold": "upper",
+        "removeInternalWhitespace": false
+      },
+      "answerVariants": [
+        {
+          "id": "solution-1",
+          "acceptedAnswers": [
+            "WATER"
+          ]
+        }
+      ]
+    },
+    {
+      "puzzleId": "south-b",
+      "normalization": {
+        "trim": true,
+        "caseFold": "upper",
+        "removeInternalWhitespace": false
+      },
+      "answerVariants": [
+        {
+          "id": "solution-1",
+          "acceptedAnswers": [
+            "FLOW"
+          ]
+        }
+      ]
+    },
+    {
+      "puzzleId": "final",
+      "normalization": {
+        "trim": true,
+        "caseFold": "upper",
+        "removeInternalWhitespace": false
+      },
+      "answerVariants": [
+        {
+          "id": "solution-1",
+          "acceptedAnswers": [
+            "DONE"
+          ]
+        },
+        {
+          "id": "solution-2",
+          "acceptedAnswers": [
+            "AGAIN"
+          ]
+        }
+      ]
+    }
+  ]
+}

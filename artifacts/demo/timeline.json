@@ -1,0 +1,282 @@
+[
+  {
+    "index": "0000",
+    "caption": "共行 · 两个人的 Puzzlehunt｜真实浏览器演示",
+    "seconds": 4
+  },
+  {
+    "index": "0001",
+    "caption": "创建房间，另一位玩家输入同一个房间码",
+    "seconds": 3
+  },
+  {
+    "index": "0002",
+    "caption": "“我是谁？”——两位玩家分别选择角色",
+    "seconds": 3
+  },
+  {
+    "index": "0003",
+    "caption": "两人选好角色，进入同一张地图；位置实时共享",
+    "seconds": 3
+  },
+  {
+    "index": "0004",
+    "caption": "遇到同伴时，把同伴向同一方向推一格",
+    "seconds": 2
+  },
+  {
+    "index": "0005",
+    "caption": "同伴身后有墙：推动失败，两个人都留在原位",
+    "seconds": 2.5
+  },
+  {
+    "index": "0006",
+    "caption": "站上题号格，按 V 查看谜题",
+    "seconds": 0.8
+  },
+  {
+    "index": "0007",
+    "caption": "左侧打开第 1 题，右侧仍可独立操作地图",
+    "seconds": 3
+  },
+  {
+    "index": "0008",
+    "caption": "输入答案：OPEN",
+    "seconds": 0.8
+  },
+  {
+    "index": "0009",
+    "caption": "第 1 题答对，两人的地图同时解锁",
+    "seconds": 3
+  },
+  {
+    "index": "0010",
+    "caption": "右侧玩家走入刚刚解锁的第 2 题",
+    "seconds": 1.5
+  },
+  {
+    "index": "0011",
+    "caption": "两位玩家同时打开不同谜题；窗口与草稿各自独立",
+    "seconds": 4
+  },
+  {
+    "index": "0012",
+    "caption": "输入答案：WRONG",
+    "seconds": 0.8
+  },
+  {
+    "index": "0013",
+    "caption": "改成错误答案：第 1 题变回未解，队友脚下重新上锁",
+    "seconds": 4
+  },
+  {
+    "index": "0014",
+    "caption": "输入答案：TWO",
+    "seconds": 0.8
+  },
+  {
+    "index": "0015",
+    "caption": "被困时仍能解脚下第 2 题，但这不会打开第 1 题的锁",
+    "seconds": 3
+  },
+  {
+    "index": "0016",
+    "caption": "右侧玩家关闭题面，准备移动",
+    "seconds": 0.8
+  },
+  {
+    "index": "0017",
+    "caption": "向下移动无效：玩家确实被锁在原地",
+    "seconds": 3
+  },
+  {
+    "index": "0018",
+    "caption": "输入答案：OPEN",
+    "seconds": 0.8
+  },
+  {
+    "index": "0019",
+    "caption": "重新解开控制题，队友立即获救",
+    "seconds": 3
+  },
+  {
+    "index": "0020",
+    "caption": "解锁后，右侧玩家可以继续移动",
+    "seconds": 2
+  },
+  {
+    "index": "0021",
+    "caption": "关闭题面，继续共同探索",
+    "seconds": 1
+  },
+  {
+    "index": "0022",
+    "caption": "各自移动，队友的位置实时同步",
+    "seconds": 0.28
+  },
+  {
+    "index": "0023",
+    "caption": "各自移动，队友的位置实时同步",
+    "seconds": 0.28
+  },
+  {
+    "index": "0024",
+    "caption": "各自移动，队友的位置实时同步",
+    "seconds": 0.28
+  },
+  {
+    "index": "0025",
+    "caption": "各自移动，队友的位置实时同步",
+    "seconds": 0.28
+  },
+  {
+    "index": "0026",
+    "caption": "各自移动，队友的位置实时同步",
+    "seconds": 0.28
+  },
+  {
+    "index": "0027",
+    "caption": "各自移动，队友的位置实时同步",
+    "seconds": 0.28
+  },
+  {
+    "index": "0028",
+    "caption": "走到旅人旁边",
+    "seconds": 0.4
+  },
+  {
+    "index": "0029",
+    "caption": "面向旅人；NPC 所在格不可通行",
+    "seconds": 1
+  },
+  {
+    "index": "0030",
+    "caption": "按 X 与 NPC 对话，只影响自己的界面",
+    "seconds": 3
+  },
+  {
+    "index": "0031",
+    "caption": "再次按 X 关闭对话",
+    "seconds": 1
+  },
+  {
+    "index": "0032",
+    "caption": "前往东侧传送门",
+    "seconds": 0.3
+  },
+  {
+    "index": "0033",
+    "caption": "前往东侧传送门",
+    "seconds": 0.3
+  },
+  {
+    "index": "0034",
+    "caption": "只有一位玩家站上门，不会触发传送",
+    "seconds": 2.5
+  },
+  {
+    "index": "0035",
+    "caption": "同伴走向同组的另一扇门",
+    "seconds": 0.3
+  },
+  {
+    "index": "0036",
+    "caption": "同伴走向同组的另一扇门",
+    "seconds": 0.28
+  },
+  {
+    "index": "0037",
+    "caption": "同伴走向同组的另一扇门",
+    "seconds": 0.28
+  },
+  {
+    "index": "0038",
+    "caption": "同伴走向同组的另一扇门",
+    "seconds": 0.28
+  },
+  {
+    "index": "0039",
+    "caption": "同伴走向同组的另一扇门",
+    "seconds": 0.28
+  },
+  {
+    "index": "0040",
+    "caption": "同伴走向同组的另一扇门",
+    "seconds": 0.28
+  },
+  {
+    "index": "0041",
+    "caption": "两人站齐 EA / EB：同时抵达东图 EC / ED",
+    "seconds": 4
+  },
+  {
+    "index": "0042",
+    "caption": "抵达后不会自动返传，可以继续探索新地图",
+    "seconds": 0.7
+  },
+  {
+    "index": "0043",
+    "caption": "走向 final meta",
+    "seconds": 0.3
+  },
+  {
+    "index": "0044",
+    "caption": "走向 final meta",
+    "seconds": 0.3
+  },
+  {
+    "index": "0045",
+    "caption": "走向 final meta",
+    "seconds": 0.3
+  },
+  {
+    "index": "0046",
+    "caption": "打开 final meta：提供 DONE 与 AGAIN 两种正确解",
+    "seconds": 3
+  },
+  {
+    "index": "0047",
+    "caption": "输入答案：DONE",
+    "seconds": 0.8
+  },
+  {
+    "index": "0048",
+    "caption": "任意一位玩家解开 final，全队通关；题面内也可看到提示",
+    "seconds": 4
+  },
+  {
+    "index": "0049",
+    "caption": "输入答案：AGAIN",
+    "seconds": 0.8
+  },
+  {
+    "index": "0050",
+    "caption": "通关后继续提交另一种正确解：AGAIN",
+    "seconds": 3
+  },
+  {
+    "index": "0051",
+    "caption": "输入答案：WRONG",
+    "seconds": 0.8
+  },
+  {
+    "index": "0052",
+    "caption": "final 改错变回未解，但首次通关记录永久保留",
+    "seconds": 4
+  },
+  {
+    "index": "0053",
+    "caption": "刷新网页：原来的席位、题面、草稿与通关记录都还在",
+    "seconds": 4
+  },
+  {
+    "index": "0054",
+    "caption": "通关后仍可自由探索",
+    "seconds": 0.6
+  },
+  {
+    "index": "0055",
+    "caption": "共享世界，独立操作；占位版本已完成核心流程",
+    "seconds": 4
+  }
+]

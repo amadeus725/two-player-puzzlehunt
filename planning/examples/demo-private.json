@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "demo-v2",
+  "notice": "仅供开发的测试答案。正式判题配置只供服务端读取，不可复制到静态资源或前端依赖中。",
+  "puzzles": [
+    {
+      "puzzleId": "p1",
+      "normalization": {
+        "trim": true,
+        "caseFold": "upper",
+        "removeInternalWhitespace": false
+      },
+      "answerVariants": [
+        {
+          "id": "open",
+          "acceptedAnswers": [
+            "OPEN"
+          ]
+        }
+      ]
+    },
+    {
+      "puzzleId": "p2",
+      "normalization": {
+        "trim": true,
+        "caseFold": "upper",
+        "removeInternalWhitespace": false
+      },
+      "answerVariants": [
+        {
+          "id": "two",
+          "acceptedAnswers": [
+            "TWO",
+            "2"
+          ]
+        }
+      ]
+    },
+    {
+      "puzzleId": "p-final",
+      "normalization": {
+        "trim": true,
+        "caseFold": "upper",
+        "removeInternalWhitespace": false
+      },
+      "answerVariants": [
+        {
+          "id": "ending-a",
+          "acceptedAnswers": [
+            "DONE"
+          ]
+        },
+        {
+          "id": "ending-b",
+          "acceptedAnswers": [
+            "AGAIN"
+          ]
+        }
+      ]
+    }
+  ]
+}

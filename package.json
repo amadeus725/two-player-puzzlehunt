@@ -1,0 +1,56 @@
+{
+  "name": "two-player-puzzlehunt",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "server": "tsx apps/server/main.ts",
+    "build": "tsc --noEmit && vite build",
+    "check": "tsc --noEmit",
+    "test": "tsx --test tests/*.test.ts",
+    "test:integration": "tsx --test tests/integration/*.test.ts",
+    "test:public": "tsx scripts/smoke-public.ts",
+    "test:lan": "tsx scripts/smoke-public.ts",
+    "lan:configure": "node scripts/configure-lan.mjs",
+    "start": "tsx apps/server/main.ts",
+    "db:up": "docker compose up -d db",
+    "db:down": "docker compose stop db",
+    "db:local": "tsx scripts/local-db.ts",
+    "db:local:stop": "tsx scripts/local-db.ts --stop",
+    "validate": "tsx scripts/validate-content.ts",
+    "backup": "tsx scripts/backup.ts",
+    "restore": "tsx scripts/restore.ts"
+  },
+  "dependencies": {
+    "cookie": "^1.0.2",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "pg": "8.23.1",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "react-markdown": "^10.1.0",
+    "socket.io": "4.8.4",
+    "socket.io-client": "4.8.4",
+    "tsx": "^4.20.6",
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^16.3.3",
+    "@types/express": "^5.0.3",
+    "@types/jsdom": "^30.0.0",
+    "@types/node": "^24.10.0",
+    "@types/pg": "^8.15.6",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "@vitejs/plugin-react": "^5.1.0",
+    "embedded-postgres": "18.4.0-beta.17",
+    "jsdom": "^29.1.1",
+    "node": "24.22.1",
+    "typescript": "^5.9.3",
+    "vite": "8.3.5"
+  }
+}

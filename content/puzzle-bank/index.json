@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "puzzles": [
+    {
+      "id": "bank-001",
+      "title": null,
+      "imageDescription": "锅、彩色方框、心与火",
+      "status": "collected",
+      "addedOn": "2026-10-29",
+      "region": null,
+      "answers": null,
+      "solution": null,
+      "gamePuzzleId": null,
+      "source": {
+        "type": "user-upload",
+        "originalFilename": "32c74113e2c614b0dc01cf344f63b33d.jpg"
+      },
+      "assets": [
+        {
+          "role": "puzzle-image",
+          "path": "images/32c74113e2c614b0dc01cf344f63b33d.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 87145,
+          "sha256": "69406adf8bc2c387709a6292a6488f75d9e77e11a1082da74e1f454bd28e5fde"
+        }
+      ]
+    },
+    {
+      "id": "bank-002",
+      "title": null,
+      "imageDescription": "人物与分叉图形的对应、问号与角色图片",
+      "status": "collected",
+      "addedOn": "2026-10-29",
+      "region": null,
+      "answers": null,
+      "solution": null,
+      "gamePuzzleId": null,
+      "source": {
+        "type": "user-upload",
+        "originalFilename": "2f96b93b721ae44eb57fb228c80e33cc.jpg"
+      },
+      "assets": [
+        {
+          "role": "puzzle-image",
+          "path": "images/2f96b93b721ae44eb57fb228c80e33cc.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 66517,
+          "sha256": "95d1ccde7f53565d6e968dfeb68a39494be8fbfdc7aef0261c83b6e1094fb843"
+        }
+      ]
+    },
+    {
+      "id": "bank-003",
+      "title": null,
+      "imageDescription": "三座山峰与彩色方框",
+      "status": "collected",
+      "addedOn": "2026-10-29",
+      "region": null,
+      "answers": null,
+      "solution": null,
+      "gamePuzzleId": null,
+      "source": {
+        "type": "user-upload",
+        "originalFilename": "b5ae60e9650b53654d78e7f7b9ce4268.jpg"
+      },
+      "assets": [
+        {
+          "role": "puzzle-image",
+          "path": "images/b5ae60e9650b53654d78e7f7b9ce4268.jpg",
+          "mimeType": "image/jpeg",
+          "bytes": 48503,
+          "sha256": "d1598c89c5aba0e66e68aacb737f4b63eb4b8ac189d7718485b0248b8d47f507"
+        }
+      ]
+    }
+  ]
+}
